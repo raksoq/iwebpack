@@ -2,6 +2,7 @@
 
 ### Simple example with webpack and itoolkit
 
+iToolkit source: https://www.npmjs.com/package/itoolkit
 
 ## Master branch 
 
