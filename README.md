@@ -1,6 +1,20 @@
 #  iWebPack
 
 ### Simple example with webpack and itoolkit
+
+####Master branch 
+It has a simple example with console output.
+
+Building: npm run build
+Running: npm run start
+Direct run without build: node src/index.js
+Direct run with build: node dist/main.js
+
+####itoolkit_add branch
+Added itoolkit and example below
+
+Building crashes... help needed.
+
 ## Example of itoolkit: Basic SQL APIs (used in branch itoolkit_add)
 ```js
     const xt = require("itoolkit");
