@@ -2,7 +2,8 @@
 
 ### Simple example with webpack and itoolkit
 
-Master branch 
+```
+## Master branch 
 
 It has a simple example with console output.
 
@@ -13,11 +14,12 @@ Direct run without build: node src/index.js
 Direct run with build: node dist/main.js
 ```
 
-Itoolkit_add branch
+## Itoolkit_add branch
 
 Added itoolkit and example below
 
 Building crashes... help needed.
+```
 
 ## Example of itoolkit: Basic SQL APIs (used in branch itoolkit_add)
 ```js
