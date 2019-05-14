@@ -1,0 +1,31 @@
+{
+  "name": "iwebpack",
+  "version": "1.0.0",
+  "description": "Example to use Webpack builder with iToolkit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "start": "node dist/main.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raksoq/iwebpack.git"
+  },
+  "keywords": [
+    "ibmi",
+    "itoolkit"
+  ],
+  "author": "Oskar Kunicki",
+  "email": "rakso@interia.pl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raksoq/iwebpack/issues"
+  },
+  "homepage": "https://github.com/raksoq/iwebpack#readme",
+  "devDependencies": {
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
