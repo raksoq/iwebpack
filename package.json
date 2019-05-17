@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/raksoq/iwebpack#readme",
   "dependencies": {
-    "itoolkit": "^0.1.6"
+    "itoolkit": "^0.1.6",
+    "idb-connector": "^1.1.10"
   },
   "devDependencies": {
     "webpack": "^4.31.0",
