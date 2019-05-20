@@ -20,7 +20,8 @@ Direct run with build: node dist/main.js
 
 Added itoolkit and example below
 
-Building crashes... help needed.
+Building crashed but fix by https://github.com/abmusse. Thanks.
+
 
 
 ## Example of itoolkit: Basic SQL APIs (used in branch itoolkit_add)
